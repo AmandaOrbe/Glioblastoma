@@ -119,7 +119,7 @@
           <h3 class="margin7"> <%= t.otras_estrategias %> </h3>
           <p class="indented margin5"><%= t.otras_estrategias_text %></p>
           <div class="card_row">
-            <%= partial(:'components/card', :locals => { :title => t.otras_estrategias_card1_title, :body => [t.otras_estrategias_card1_body] }) %>
+            <%= partial(:'components/card', :locals => { :title => t.otras_estrategias_card1_title, :body => [t.otras_estrategias_card1_body1, t.otras_estrategias_card1_body2] }) %>
             <%= partial(:'components/card', :locals => { :title => t.otras_estrategias_card2_title, :body => [t.otras_estrategias_card2_body] }) %>
           </div>
         </div>
@@ -241,9 +241,8 @@
       </div>
       <div class="test__answer__correct4">
           <h4>¡CORRECTO!</h4>
-          <p><%= t.answer4_a  %></p>
-          <p><%= t.answer4_b  %></p>
-          <p><%= t.answer4_b  %></p>
+          <p><%= t.answer4  %></p>
+
         </div>
 
         <div class="test__answer__incorrect4 ">

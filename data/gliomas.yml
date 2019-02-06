@@ -43,7 +43,7 @@ diagnostico_card2_title: "Metilación del promotor de MGMT"
 diagnostico_card2_text1: "La O6-metil-guanin-DNA-metil-transferasa (MGMT) es una enzima que detecta las metilaciones en el DNA, concretamente en la guanina, evitando así que aparezcan mutaciones en el DNA producida por agentes alquilantes. "
 diagnostico_card2_text2: "Cuando su promotor está metilado de forma epigenética, el gen se encuentra silenciado, y por tanto esta enzima no puede corregir los defectos que ocurren con agentes tales como la temozolomida."
 diagnostico_card2_text3: " Esto ha sido analizado en varios estudios que observan un papel predictivo de respuesta a temozolomida en pacientes con metilación del promotor de MGMT frente a los no metilados (ver apartado de tratamiento) (Szopa, Burley, Kramer-Marek, & Kaspera, 2017). "
-diagnostico_card2_text3: " Además de su potencial papel predictivo, la metilación de MGMT tiene, per sé, valor pronóstico, ya que se ha encontrado que pacientes con esta alteración viven más independientemente de haber recibido o no agentes alquilantes (Hegi et al., 2005). Al igual que las mutaciones en IDH, es más frecuente en glioblastomas secundarios."
+diagnostico_card2_text4: " Además de su potencial papel predictivo, la metilación de MGMT tiene, per sé, valor pronóstico, ya que se ha encontrado que pacientes con esta alteración viven más independientemente de haber recibido o no agentes alquilantes (Hegi et al., 2005). Al igual que las mutaciones en IDH, es más frecuente en glioblastomas secundarios."
 
 diagnostico_text3: "Otros marcadores moleculares, como las mutaciones en EGFR (en torno al 50% de glioblastomas), amplificación de PDGFR, amplificación de CDK4 han suscitado interés en el desarrollo de estrategias terapéuticas, pero que por desgracia hasta hoy, no han demostrado claro beneficio."
 diagnostico_text4: "Brevemente, describir dos entidades asociadas al glioblastoma que presentan algunas particularidades: gliosarcoma y glioblastoma con áreas de diferenciación PNET."
@@ -62,8 +62,8 @@ diagnostico_card4_text3: "Como características diferenciales, pueden tener pote
 tratamiento: "Tratamiento post quirúrgico adyuvante"
 tratamiento_text1: Además de IDH y la metilación del promotor de MGMT, el factor quizá más importante en la supervivencia de un paciente con glioblastoma es la posibilidad de una resección completa, por lo que aquí de nuevo es clave la cirugía mediante craneotomía intentando una resección lo más amplia posible preservando la función neurológica. Uno de los factores que puede ayudar a conseguir una mejor resección, es la determinación de los márgenes quirúrgicos durante la cirugía. Para ello, puede ser de utilidad la administración pre-quirúrgica, vía oral, del ácido 5-aminolevulínico (5-ALA) unas horas antes de la intervención. Esta técnica se basa en que muchos gliomas acumulan protoporfirina IX tras la administración de 5-ALA, y esta acumulación puede detectarse en el campo quirúrgico cuando se ilumina con luz azul, haciendo que las células tumorales adquieran un tono rosa intenso y por tanto, mejorando las posibilidades de diferenciar tejido sano de tejido tumoral y, por consiguiente, las posibilidades de resección completa. (Zhao et al., 2013). Como se describió en el módulo 2 dedicado a los gliomas anaplásicos, cuando se sospecha glioblastoma pero no es posible su extirpación, debe considerarse la realización de una biopsia guiada con neuronavegador o estereotaxia.
 tratamiento_span1: "Una vez completada la resección quirúrgica, el tratamiento fundamental "
-tratamiento_text2: "y con quizá el mayor grado de evidencia en neurooncología"
-tratamiento_span2: ", es la terapia combinada basada en radioterapia y temozolomida. "
+tratamiento_text2: "y con quizá el mayor grado de evidencia en neurooncología,"
+tratamiento_span2: "es la terapia combinada basada en radioterapia y temozolomida. "
 
 radioterapia: "Radioterapia y temozolomida"
 radioterapia_text1: "El estudio ya clásico de Stupp y colaboradores, y que de momento no ha sido claramente superado por ninguna estrategia distinta, aleatorizó a 573 pacientes en un ensayo fase III a pacientes con diagnóstico de glioblastoma a recibir bien tras la cirugía o bien tras la biopsia, radioterapia fraccionada con un total de dosis de 60Gy frente a radioterapia con temozolomida concomitante (dosis de 75 mg/m2 cada 24h, hasta fin de RDT) y temozolomida adyuvante (150-200 mg/m2 días 1-5 de cada 28 durante 6 ciclos)"
@@ -90,9 +90,9 @@ temozolomida_text: Bevacizumab es un anticuerpo monoclonal dirigido frente al fa
 inmunoterapia: Inmunoterapia
 inmunoterapia_text: "Aunque tradicionalmente el cerebro se ha considerado un órgano inmunoprivilegiado, esto no es así, pues recientemente se ha demostrado conexión entre el sistema nervioso central y el sistema inmune, y además, en situaciones patológicas como el glioblastoma, la barrera hematoencefálica queda expuesta a la interacción con la inmunidad. Si bien como veremos más adelante, los anti PD-1 en segunda línea no parecen ofrecer gran beneficio, estamos pendientes de dos ensayos clínicos aleatorizados que van a analizar el papel de nivolumab (anti PD-1) en el tratamiento post quirúrgico y combinado con radioterapia. Son los siguientes, cuyas características fundamentales son:"
 inmunoterapia_card1_title: "CA209-498"
-inmunoterapia_card1_body: "ensayo abierto que compara, en pacientes sin metilación en el promotor de MGMT y con resección al menos del 20%, el régimen de Stupp frente a radioterapia con nivolumab (sin quimioterapia) NCT02617589 "
+inmunoterapia_card1_body: "Ensayo abierto que compara, en pacientes sin metilación en el promotor de MGMT y con resección al menos del 20%, el régimen de Stupp frente a radioterapia con nivolumab (sin quimioterapia) NCT02617589 "
 inmunoterapia_card2_title: "CA209-548"
-inmunoterapia_card2_body: "ensayo doble ciego que compara, en pacientes con metilación en el promotor de MGMT y con resección al menos del 20%, el régimen de Stupp con nivolumab frente al régimen de Stupp + placebo NCT02667587"
+inmunoterapia_card2_body: "Ensayo doble ciego que compara, en pacientes con metilación en el promotor de MGMT y con resección al menos del 20%, el régimen de Stupp con nivolumab frente al régimen de Stupp + placebo NCT02667587"
 
 
 recaida: "Tratamiento a la recaída: tendencias actuales"
@@ -110,7 +110,8 @@ virus_text: "Una estrategia que está despertando interés, pero que aún deber�
 otras_estrategias: "Otras estrategias "
 otras_estrategias_text: "Dado que no todas las recaídas son iguales, ni suceden en el mismo tiempo ni en las mismas circunstancias clínicas, y ante la falta de tratamientos estándar, pudiera ser razonable en pacientes seleccionados utilizar alguna de las siguientes estrategias (Martínez-Garcia et al., 2018):"
 otras_estrategias_card1_title: "Recaída en forma de nódulo"
-otras_estrategias_card1_body: "Se puede valorar resección quirúrgica con implantación de BCNU o seguido de quimioterapia, o radiocirugía seguida de radioterapia (reirradiación). Para plantear una reirradiación en la misma localización debemos tener un intervalo libre de progresión de al menos 6 meses y se debe considerar de una manera especial la localización de la recidiva, ya que tanto las tasas de radionecrosis como de daño cerebral agudo y crónico en estos casos son muy elevadas."
+otras_estrategias_card1_body1: "Se puede valorar resección quirúrgica con implantación de BCNU o seguido de quimioterapia, o radiocirugía seguida de radioterapia (reirradiación)."
+otras_estrategias_card1_body2: "Para plantear una reirradiación en la misma localización debemos tener un intervalo libre de progresión de al menos 6 meses y se debe considerar de una manera especial la localización de la recidiva, ya que tanto las tasas de radionecrosis como de daño cerebral agudo y crónico en estos casos son muy elevadas."
 otras_estrategias_card2_title: "Recaída inoperable"
 otras_estrategias_card2_body: "Si el tiempo libre de temozolomida es mayor de 4-6 meses, se puede plantear retomar este fármaco. Igualmente, como en el apartado anterior, se puede considerar la reirradiación como alternativa con las consideraciones ya mencionadas."
 
@@ -129,7 +130,7 @@ pregunta2: Pregunta 2
 pregunta2_text: "Sobre el bevacizumab en el glioblastoma, señale la correcta"
 pregunta2_opt_a: Ha demostrado un significativo aumento de la supervivencia global en combinación con radioterapia y temozolomida en primera línea
 pregunta2_opt_b: Tiene una toxicidad prácticamente nula y es desde el punto de vista farmacoeconómico muy eficiente
-pregunta2_opt_c: Su combinación con nitrosureas es el estándar actual a la recañida en glioblastoma
+pregunta2_opt_c: Su combinación con nitrosureas es el estándar actual a la recaída en glioblastoma
 pregunta2_opt_d: Ninguna es correcta
 answer2: "Ninguna de las respuestas anteriores es correcta"
 
@@ -143,7 +144,7 @@ biblio1_link: "https://doi.org/10.1093/neuonc/nox025"
 
 biblio2_title: "Brandes, A. A., Finocchiaro, G., Zagonel, V., Reni, M., Caserta, C., Fabi, A., … Franceschi, E. (2016). AVAREG: a phase II, randomized, noncomparative study of fotemustine or bevacizumab for patients with recurrent glioblastoma."
 biblio2_magazine: " Neuro-Oncology, 18(9), 1304–1312"
-biblio2_link: " https://doi.org/10.1093/neuonc/now035"
+biblio2_link: "https://doi.org/10.1093/neuonc/now035"
 
 biblio3_title: "Chinot, O. L., Wick, W., Mason, W., Henriksson, R., Saran, F., Nishikawa, R., … Cloughesy, T. (2014). Bevacizumab plus radiotherapy-temozolomide for newly diagnosed glioblastoma. "
 biblio3_magazine: "The New England Journal of Medicine, 370(8), 709–722. "
@@ -180,11 +181,11 @@ biblio10_link: "https://doi.org/10.1007/s12094-017-1763-6"
 
 biblio11_title: "McAleer, M. F., & Brown, P. D. (2015). Therapeutic management of gliosarcoma in the temozolomide era."
 biblio11_magazine: "CNS Oncology, 4(3), 171–178."
-biblio11_link: " https://doi.org/10.2217/cns.14.61"
+biblio11_link: "https://doi.org/10.2217/cns.14.61"
 
 biblio12_title: "Perry, A., Miller, C. R., Gujrati, M., Scheithauer, B. W., Zambrano, S. C., Jost, S. C., … Rosenblum, M. K. (2009). Malignant gliomas with primitive neuroectodermal tumor-like components: a clinicopathologic and genetic study of 53 cases. "
 biblio12_magazine: "Brain Pathology (Zurich, Switzerland), 19(1), 81–90."
-biblio12_link: " https://doi.org/10.1111/j.1750-3639.2008.00167.x"
+biblio12_link: "https://doi.org/10.1111/j.1750-3639.2008.00167.x"
 
 biblio13_title: "Perry, J. R., Laperriere, N., O’Callaghan, C. J., Brandes, A. A., Menten, J., Phillips, C., … Trial Investigators. (2017). Short-Course Radiation plus Temozolomide in Elderly Patients with Glioblastoma. "
 biblio13_magazine: "The New England Journal of Medicine, 376(11), 1027–1037. "
@@ -212,11 +213,11 @@ biblio18_link: "https://doi.org/10.1056/NEJMoa1707358"
 
 biblio19_title: "Yan, H., Parsons, D. W., Jin, G., McLendon, R., Rasheed, B. A., Yuan, W., … Bigner, D. D. (2009). IDH1 and IDH2 mutations in gliomas."
 biblio19_magazine: "The New England Journal of Medicine, 360(8), 765–773."
-biblio19_link: " https://doi.org/10.1056/NEJMoa0808710"
+biblio19_link: "https://doi.org/10.1056/NEJMoa0808710"
 
 biblio20_title: "Zhao, S., Wu, J., Wang, C., Liu, H., Dong, X., Shi, C., … Li, H. (2013). Intraoperative fluorescence-guided resection of high-grade malignant gliomas using 5-aminolevulinic acid-induced porphyrins: a systematic review and meta-analysis of prospective studies. "
 biblio20_magazine: "PloS One, 8(5), e63682."
-biblio20_link: " https://doi.org/10.1371/journal.pone.0063682"
+biblio20_link: "https://doi.org/10.1371/journal.pone.0063682"
 
 
 
@@ -257,7 +258,7 @@ texto_continuacion_1: "Se recibe el resultado del análisis molecular, siendo po
 texto_continuacion_2: "El paciente aparece en la consulta de oncología médica y de oncología radioterápica andando por su propio pie, acompañado de sus hijos los cuales están muy contentos porque, desde la operación, su padre ha vuelto a ser el hombre cariñoso que siempre fue. "
 
 pregunta_continuacion: "¿Cuál crees que es el tratamiento óptimo?"
-caso_practico2_opt_a: Radioterapia sola, debido a la eda y al peor pronóstico de los glioblastomas en ancianos, además de la toxicidad dela temozolomida.
+caso_practico2_opt_a: Radioterapia sola, debido a la edad y al peor pronóstico de los glioblastomas en ancianos, además de la toxicidad dela temozolomida.
 caso_practico2_opt_b: Radioterapia 60Gy en combinación con temozolomida seguida de 6 meses de temozolomida adyuvante
 caso_practico2_opt_c: Radioterapia 40Gy en combinación con temozolomida seguida de 12 meses de temozolomida adyuvante
 answer4: "De nuevo, la edad no es razón, máxime en un paciente con tan buen estado general, para contraindicar la quimioterapia. Por otra parte, la metilación del promotor de MGMT hace que el potencial beneficio sea mayor. Sin embargo, siendo estrictos, en el régimen de Stupp (respuesta B) no había datos apenas de pacientes mayores de 70 años, por lo cual se diseñó el ensayo del grupo canadiense, en el que se incluían pacientes mayores de 65 años. En este ensayo, se utilizó una dosis y fraccionamiento más baja y más corto, respectivamente, de radioterapia, y un tratamiento post radioterapia más prolongado que en el régimen de Stupp. "
