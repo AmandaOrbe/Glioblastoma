@@ -24,34 +24,34 @@ cards.forEach(function(card){
 const radioInputs = document.querySelectorAll('.form__radio-input');
 
 
-const respuestaCorrecta1 = document.getElementById("Codelección1p/19qymutacióndeIDH");
+const respuestaCorrecta1 = document.getElementById("Todaslasanteriores");
 const button1 = document.getElementById("pregunta1__button");
 const question1 = document.getElementById("pregunta1");
-const respuestasIncorrectas1 = [document.querySelectorAll('.form__group')[0], document.querySelectorAll('.form__group')[1], document.querySelectorAll('.form__group')[3]];
+const respuestasIncorrectas1 = [document.querySelectorAll('.form__group')[0], document.querySelectorAll('.form__group')[1], document.querySelectorAll('.form__group')[2]];
 const question1Inputs = [radioInputs[0], radioInputs[1], radioInputs[2], radioInputs[3]];
 const testAnswerCorrect1 = document.querySelector(".test__answer__correct");
 const testAnswerIncorrect1 = document.querySelector(".test__answer__incorrect");
 
-const respuestaCorrecta2 = document.getElementById("Procarbacina,lomustinayvincristina")
+const respuestaCorrecta2 = document.getElementById("Ningunaescorrecta")
 const button2 = document.getElementById("pregunta2__button")
 const question2 = document.getElementById("pregunta2");
-const respuestasIncorrectas2 = [document.querySelectorAll('.form__group')[4], document.querySelectorAll('.form__group')[5], document.querySelectorAll('.form__group')[7]];
+const respuestasIncorrectas2 = [document.querySelectorAll('.form__group')[4], document.querySelectorAll('.form__group')[5], document.querySelectorAll('.form__group')[6]];
 const question2Inputs = [radioInputs[4], radioInputs[5], radioInputs[6], radioInputs[7]];
 const testAnswerCorrect2 = document.querySelector(".test__answer__correct2");
 const testAnswerIncorrect2 = document.querySelector(".test__answer__incorrect2");
 
 
 
-const respuestaCorrecta3 = document.getElementById("Observaciónytratamientoalarecaída")
+const respuestaCorrecta3 = document.getElementById("LafaltademetilaciónenelpromotordeMGMT")
 const button3 = document.getElementById("pregunta3__button")
 const question3 = document.getElementById("pregunta3");
-const respuestasIncorrectas3 = [document.querySelectorAll('.form__group')[9], document.querySelectorAll('.form__group')[10]];
+const respuestasIncorrectas3 = [document.querySelectorAll('.form__group')[8], document.querySelectorAll('.form__group')[9]];
 const question3Inputs = [radioInputs[8], radioInputs[9], radioInputs[10]];
 const testAnswerCorrect3 = document.querySelector(".test__answer__correct3");
 const testAnswerIncorrect3 = document.querySelector(".test__answer__incorrect3");
 
 
-const respuestaCorrecta4 = document.getElementById("Radioterapia50.4–54GyseguidodePCVx6ciclos")
+const respuestaCorrecta4 = document.getElementById("Radioterapia40Gyencombinacióncontemozolomidaseguidade12mesesdetemozolomidaadyuvante")
 const button4 = document.getElementById("pregunta4__button")
 const question4 = document.getElementById("pregunta4");
 const respuestasIncorrectas4 = [document.querySelectorAll('.form__group')[11], document.querySelectorAll('.form__group')[12]];
@@ -75,11 +75,8 @@ const diagnostico = document.getElementById("2.Dia");
 const tratamientoTab = document.getElementById("side_3.Tratamientopostquirúrgicoadyuvante");
 const tratamiento = document.getElementById("3.Tra");
 
-const inicioTab = document.getElementById("side_4.Tratamientodelaenfermedadnoresecabledeinicio");
-const inicio = document.getElementById("4.Tra");
-
-const tendenciasTab = document.getElementById("side_5.Tratamientoalarecaída:tendenciasactuales");
-const tendencias = document.getElementById("5.Tra");
+const tendenciasTab = document.getElementById("side_4.Tratamientoalarecaída:tendenciasactuales");
+const tendencias = document.getElementById("4.Tra");
 
 const biblioTab = document.getElementById("side_bibliografia");
 const biblio = document.getElementById("bibliografia");
@@ -103,8 +100,6 @@ const chapters = [{tab: presentacionTab, content: presentacion} ,
                   {tab: epidemiologiaTab, content: epidemiologia},
                   {tab: diagnosticoTab, content: diagnostico},
                   {tab: tratamientoTab, content: tratamiento},
-                  {tab: inicioTab, content: inicio},
-                  {tab: tendenciasTab, content: tendencias},
                   {tab: tendenciasTab, content: tendencias},
                   {tab: biblioTab, content: biblio},
                 ]
