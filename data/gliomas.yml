@@ -7,8 +7,8 @@ presentacion_text1:    "En este módulo veremos los fundamentos del diagnóstico
 
 objetivos: objetivos
 objetivos_text1: "Conocer la epidemiología y diagnóstico del glioblastoma"
-objetivos_text1: "Establecer las líneas fundamentales del tratamiento de primera línea del glioblastoma"
-objetivos_text1: "- Analizar las tendencias actuales para la investigación de terapias de segunda línea en el glioblastoma"
+objetivos_text2: "Establecer las líneas fundamentales del tratamiento de primera línea del glioblastoma"
+objetivos_text3: "Analizar las tendencias actuales para la investigación de terapias de segunda línea en el glioblastoma"
 
 
 epidemiologia: Epidemiología  y  diagnóstico
@@ -115,143 +115,152 @@ otras_estrategias_card2_title: "Recaída inoperable"
 otras_estrategias_card2_body: "Si el tiempo libre de temozolomida es mayor de 4-6 meses, se puede plantear retomar este fármaco. Igualmente, como en el apartado anterior, se puede considerar la reirradiación como alternativa con las consideraciones ya mencionadas."
 
 
-
-
-epidemiologia_text:
-hipertension: Hipertensión intracraneal
-hipertension_body:  En caso de que el espacio ocupado por el glioma supere la tolerancia de presión intracraneal. Los más frecuentes son cefalea, visión borrosa y nauseas. Son síntomas muy inespecíficos y fácilmente confundibles con otros cuadros.
-focalidad: Focalidad neurológica
-focalidad_body: Debidos a la localización específica del tumor, se producirá un déficit neurológico concreto motor, sensitivo o mixto.
-epilepsia: Epilepsia
-epilepsia_body: Son uno de los síntomas más frecuentes en gliomas de bajo grado, siendo un síntoma que llega hasta el 70-80% de los pacientes en algún momento de su evolución, siendo más frecuente en oligodendrogliomas que en astrocitomas. En el caso de los gliomas de bajo grado, debido a su lento crecimiento, puede preceder años al diagnóstico del tumor.
-incidencia_span: Los gliomas de bajo grado corresponden a aproximadamente el 15% de los tumores primarios cerebrales en el adulto, y tienen unpico de incidenciaen torno a los 35-45 años
-incidencia_text: '(Pouratian & Schiff, 2010). Su pronóstico es mejor que el de los gliomas anaplásicos y glioblastomas, pudiendo incluso en casos muy seleccionados mantener una actitud expectante. La reciente clasificación molecular ha afinado estos factores pronósticos, si bien se siguen considerando como factores de buen pronóstico los siguientes (deben cumplirse todos) (Sepúlveda-Sánchez et al., 2018):'
-edad: Edad < 40 años
-tamaño: Tamaño tumoral preoperatorio < 4-6cm
-reseccion: Resección completa
-idh: IDH mutado y codelección 1p/19q
-criterios: En los pacientes que cumplen estos criterios, la mediana de supervivencia puede superar los 10 años, mientras que en los que tienen factores de peor pronóstico, está en torno a 4 años (Daniels et al., 2011).
-sospecha: Una vez establecida la sospecha diagnóstica, la prueba de imagen preferida es la resonancia magnética con contraste. A diferencia de los gliomas de alto grado, los gliomas de bajo grado suelen ser hipocaptantes, con imagen hipointensa en T1 e hiperintensa en T2. Clásicamente, los oligodendrogliomas pueden presentar calcificaciones en su interior y además presentar localizaciones corticales, a diferencia de los astrocitomas, más típicos de la sustancia blanca.
-
-histologicamente: "Histológicamente, los gliomas de bajo grado (consideramos de aquí en adelante a los grado II) se dividían en astrocitomas difusos, oligodendrogliomas y oligoastrocitomas, siendo esta tercer entidad una denominación obsoleta. Desde el punto de vista morfológico, las diferencias fundamentales son:"
-astrocitoma: Astrocitoma
-astrocitoma_body: Se cree que la célula de la que derivan son los astrocitos, compartiendo con ellos la tinción de GFAP (útil para el diagnóstico) y a diferencia de los astrocitomas anaplásicos o los glioblastomas, la transición entre el tejido normal y el neoplásico está poco definida, la celularidad y atipia es baja.
-oligodendroglioma: Oligodendroglioma
-oligodendroglioma_body: Se cree que derivan de los oligodendrocitos y su característica más clásica es la aparición de células en huevo frito, que no es sino un artefacto que sólo se ve en las muestras parafinadas y no en fresco. De nuevo, la celularidad y la atipia serán las características que diferencien el grado II del anaplásico o grado III.
-independientemente: "Independientemente de que la primera aproximación siga siendo el análisis morfológico, a día de hoy es imprescindible completar el estudio de cara al diagnóstico definitivo y a la planificación del tratamiento mediante técnicas moleculares"
-imprescindible: Es imprescindible contar con la determinación de mutación de IDH (primero con la inmunotinción, reservando la secuenciación para casos negativos), la tinción de ATRX (si bien esta es más secundaria) y la codelección de 1p19q.
-marcadores: Estos marcadores nos darán información diagnóstica y pronóstica (la mutación de IDH y la codelección 1p19q son marcadores de mejor pronóstico). En el siguiente esquema, extraído de las guías SEOM 2017 sobre diagnóstico y tratamiento de los gliomas de bajo grado, se resume el algoritmo diagnóstico de los gliomas de bajo grado
-algoritmo_title: "Figura 3: Algoritmo diagnóstico molecular de los gliomas de bajo grado. (Sepúlveda-Sánchez et al., 2018)"
-metilacion: "El estado de la metilación del promotor de MGMT, que será discutido en los módulos de gliomas de alto grado, ha sido descrito como un factor independiente de buen pronóstico en gliomas de bajo grado, si bien sus implicaciones en el manejo terapéutico aún no están claras (Bell et al., 2018)"
-
-quirurgico: "El tratamiento quirúrgico mediante craneotomía es clave, salvo para tumores de muy buen pronóstico (ver arriba), o cuando haya contraindicaciones claras para la cirugía, en cuyo caso debe garantizarse un seguimiento estrecho para establecer el verdadero comportamiento de la lesión (un porcentaje no desdeñable puede tener un grado mayor de los esperado). "
-reseccion2: "Debe intentarse una resección completa siempre que sea posible, pero no a expensas de un déficit neurológico. La supervivencia y pronóstico mejoran cuanto mayor es el grado de resección, especialmente en el caso del oligodendroglioma. Sin embargo es muy frecuente la implicación de áreas elocuentes cerebrales en los gliomas de bajo grado, por lo que en la cirugía de estas lesiones son especialmente relevantes la monitorización neurofisiológica intraoperatoria, la cirugía con paciente despierto en el caso de tumores que involucren las áreas del lenguaje, y la neuronavegación para definir mejor los límites de la lesión. "
-tumores: "En los tumores que cumplan todos los factores de buen pronóstico (ver apartado anterior para los criterios), con cirugía completa, el seguimiento es una opción tras la intervención quirúrgica. No obstante, en casos en los que haya uno o más factores de riesgo, a saber:"
-mayor: Edad mayor de 40 años
-tamaño2: Tamaño mayor de 4-6 cm
-codeleccion: "Falta de codelección 1p/19q "
-mutacion: "Falta de mutación en IDH"
-completa: "Resección no completa"
-recomienda: Se recomienda tratamiento complementario post cirugía (Sepúlveda-Sánchez et al., 2018)
-
-quimioterapia: "Quimioterapia adyuvante"
-PCV: "PCV"
-quimioterapia_span: "El régimen estándar es el PCV (procarbacina, vincristina y lomustina), único hasta la fecha con nivel de evidencia I "
-quimioterapia_text_1: gracias al estudio RTOG 9802, el cual aleatorizó a 251 pacientes a recibir RDT seguido de 6 ciclos de PCV versus sólo RDT, siendo el objetivo principal la SG. Curiosamente, el primer análisis no demostró un impacto significativo en SG; sin embargo, con casi 12 años de mediana de seguimiento, sí se encontraron diferencias (13.3 años para la RDT y PCV vs 7.8 años para la RDT sola), incluyendo también beneficio en la SLP (10.4 vs 4 años) (Buckner et al., 2016).
-quimioterapia_text_2: Es un caso muy singular en la oncología, en el que tras muchos años de seguimiento, un endpoint tan importante como la SG alcanza diferencias significativas cuando en un primer análisis no lo alcanzó. Si bien hay que tenerlo en cuanta como análisis exploratorios, el mayor beneficio parecía encontrarse en pacientes con histología de oligodendroglima y en pacientes con mutaciones en IDH.
-quimioterapia_text_3: "El principal problema de este tratamiento es su falta de comodidad (necesita tratamiento intravenoso los días 8 y 29 de cada ciclo) y la toxicidad hematológica y clínica, que hace que sólo un 56% de los pacientes completaran el tratamiento por protocolo (Buckner et al., 2016)."
-temozolomida: "Temozolomida"
-temozolomida_text_1: "La temozolomida, de eficacia contrastada en gliomas de alto grado, no tiene la evidencia grado I que tiene el PCV, si bien presenta ventajas evidentes, tales como la comodidad y el perfil de toxicidad de la misma. Existe amplio debate en la neurooncología sobre si, a la vista de que temozolomida es al menos igual de eficaz que PCV en gliomas de alto grado, podemos extrapolar estos datos a los gliomas de bajo grado, especialmente en el contexto adyuvante."
-temozolomida_text_2: "No hay consenso en si, de decidirnos por temozolomida, debe realizarse de forma concomitante con radioterapia o después de la misma, si bien el ensayo con mejor evidencia de uso de temozolomida en gliomas de bajo grado (ensayo fase II, no aleatorizado) usaba un esquema concurrente con la RDT (a dosis de 75 mg/m2) seguido de temozolomida 150-200 mg/m2 días 1-5 de cada 28 durante 12 ciclos, sin alcanzarse la mediana de SLP ni de SG (con 4 años de mediana de seguimiento) y unas tasa de SLP a los 3 años de 59% y de SG de 73% (Fisher et al., 2015)."
-versus: "Temozolomida versus radioterapia"
-versus_text: "Recientemente, un estudio fase III aleatorizado ha evaluado la posibilidad de sustituir la radioterapia por temozolomida en pacientes con glioma de bajo grado, con al menos un factor de riesgo. Aunque las medianas de supervivencia global no han sido alcanzadas en ninguno de los grupos, y aunque la diferencia de SLP no es significativa, si que es numéricamente menor para la rama de temozolomida (39 vs 46 meses) (Baumert et al., 2016). Un resultado interesante de este estudio, es que en el análisis de subgrupos muestra que en pacientes con mutación en IDH y sin codelección de 1p/19q, los pacientes tratados con  radioterapia tenían una mayor SLP que los tratados con temozolomida."
-inicio: "Tratamiento de la enfermedad no resecable de inicio"
-inicio_text: "En estos casos, el tratamiento se considera paliativo, siendo la biopsia indicada para valorar factores pronósticos. No está claro el papel de la quimioterapia neoadyuvante, tanto basada en PCV como en temozolomida, en una potencial conversión de inoperable a operable."
-
-tendencias_text_1: "El tratamiento a la recaída de gliomas de bajo grado es, al igual que los gliomas de alto grado, materia de controversia. En la medida de lo posible, se intentará cirugía de rescate, sobre todo por la posible transformación a alto grado. Dependiendo del escenario en que nos encontremos, podemos ir desde un tratamiento con intención radical (por ejemplo, un paciente al que no se le hubiera aplicado radioterapia tras cirugía) a un tratamiento exclusivamente paliativo. "
-tendencias_span: "Se recomienda la inclusión de estos pacientes en ensayos clínicos."
-tendencias_text_2: "Un reciente estudio fase II aleatorizado ha mostrado que la adición de bevacizumab a temozolomida en gliomas de grado II y III sin codelección 1p/19q en pacientes a la primera recaída no aporta beneficio significativo a la temozolmida sola en términos de supervivencia global (Bent et al., 2018)"
 evaluacion: Evaluación
 pregunta1: Pregunta 1
-pregunta1_text: "¿Qué dos marcadores moleculares son imprescindibles para el correcto diagnóstico de los gliomas de bajo grado?"
-pregunta1_opt_a: ATRX y TERT
-pregunta1_opt_b: TERT y p53
-pregunta1_opt_c: Codelección 1p/19q y mutación de IDH
-pregunta1_opt_d: Mutación IDH y BRAF
-answer1: "Para el correcto diagnóstico de los gliomas de bajo grado los dos marcadores moleculares imprescindibles son el TERT y el p53"
+pregunta1_text: "¿Cuál de los siguientes es un factor con valor de buen pronóstico en glioblastoma?"
+pregunta1_opt_a: Estado general mediante escala KPS mayor de 70%
+pregunta1_opt_b: Mutación en IDH
+pregunta1_opt_c: Metilación del promotor de MGMT
+pregunta1_opt_d: Todas las anteriores
+answer1: "Un estado general mediante escala KPS mayor de 70%, la mutación en IDH y la metilación del promotor de MGMT, son factores con valor de buen pronostico en gliobastoma"
+
+
 pregunta2: Pregunta 2
-pregunta2_text: "El tratamiento adyuvante post cirugía y post radioterapia que tiene una mayor evidencia en cuanto a beneficio en supervivencia es:"
-pregunta2_opt_a: Bevacizumab
-pregunta2_opt_b: Temozolomida
-pregunta2_opt_c: Procarbacina, lomustina y vincristina
-pregunta2_opt_d: Nivolumab
-answer2: "El tratamiento adyuvante post cirugía y post radioterapia que tiene una mayor evidencia en cuanto a beneficio en supervivencia es Procarbacina, lomustina y vincristina"
+pregunta2_text: "Sobre el bevacizumab en el glioblastoma, señale la correcta"
+pregunta2_opt_a: Ha demostrado un significativo aumento de la supervivencia global en combinación con radioterapia y temozolomida en primera línea
+pregunta2_opt_b: Tiene una toxicidad prácticamente nula y es desde el punto de vista farmacoeconómico muy eficiente
+pregunta2_opt_c: Su combinación con nitrosureas es el estándar actual a la recañida en glioblastoma
+pregunta2_opt_d: Ninguna es correcta
+answer2: "Ninguna de las respuestas anteriores es correcta"
+
+
+
 bibliografia: BIBLIOGRAFÍA
 revistas: Revistas
-biblio1_title: "Baumert, B. G., Hegi, M. E., van den Bent, M. J., von Deimling, A., Gorlia, T., Hoang-Xuan, K., … Stupp, R. (2016). Temozolomide chemotherapy versus radiotherapy in high-risk low-grade glioma (EORTC 22033-26033): a randomised, open-label, phase 3 intergroup study."
-biblio1_magazine: "The Lancet. Oncology, 17(11), 1521–1532."
-biblio1_link: "https://doi.org/10.1016/S1470-2045(16)30313-8"
-biblio2_title: "Bell, E. H., Zhang, P., Fisher, B. J., Macdonald, D. R., McElroy, J. P., Lesser, G. J., … Chakravarti, A. (2018). Association of MGMT Promoter Methylation Status With Survival Outcomes in Patients With High-Risk Glioma Treated With Radiotherapy and Temozolomide: An Analysis From the NRG Oncology/RTOG 0424 Trial."
-biblio2_magazine: "JAMA Oncology."
-biblio2_link: "https://doi.org/10.1001/jamaoncol.2018.1977"
-biblio3_title: "Bent, M. J. van den, Klein, M., Smits, M., Reijneveld, J. C., French, P. J., Clement, P., … Idbaih, A. (2018). Bevacizumab and temozolomide in patients with first recurrence of WHO grade II and III glioma, without 1p/19q co-deletion (TAVAREC): a randomised controlled phase 2 EORTC trial. "
-biblio3_magazine: " The Lancet Oncology, 0(0)."
-biblio3_link: "https://doi.org/10.1016/S1470-2045(18)30362-0"
-biblio4_title: "Buckner, J. C., Shaw, E. G., Pugh, S. L., Chakravarti, A., Gilbert, M. R., Barger, G. R., … Curran, W. J. (2016). Radiation plus Procarbazine, CCNU, and Vincristine in Low-Grade Glioma."
-biblio4_magazine: "The New England Journal of Medicine, 374(14), 1344–1355."
-biblio4_link: "https://doi.org/10.1056/NEJMoa1500925"
-biblio5_title: "Daniels, T. B., Brown, P. D., Felten, S. J., Wu, W., Buckner, J. C., Arusell, R. M., … Shaw, E. G. (2011). Validation of EORTC prognostic factors for adults with low-grade glioma: a report using intergroup 86-72-51."
-biblio5_magazine: " International Journal of Radiation Oncology, Biology, Physics, 81(1), 218–224."
-biblio5_link: "https://doi.org/10.1016/j.ijrobp.2010.05.003"
-biblio6_title: "Fisher, B. J., Hu, C., Macdonald, D. R., Lesser, G. J., Coons, S. W., Brachman, D. G., … Mehta, M. (2015). Phase 2 study of temozolomide-based chemoradiation therapy for high-risk low-grade gliomas: preliminary results of Radiation Therapy Oncology Group 0424."
-biblio6_magazine: " International Journal of Radiation Oncology, Biology, Physics, 91(3), 497–504. "
-biblio6_link: "https://doi.org/10.1016/j.ijrobp.2014.11.012"
-biblio7_title: "Karim AB et al (1996). A randomized trial on dose-response in radiation therapy of low-grade cerebral glioma: European Organization for Research and Treatment of Cancer (EORTC) Study 22844."
-biblio7_magazine: " International Journal of Radiation Oncology, Biology, Physics, 91(3), 497–504. "
-biblio7_link: ""
-biblio8_title: "Karim AB et al (2002). Randomized trial on the efficacy of radiotherapy for cerebral low-grade glioma in the adult: European Organization for Research and Treatment of Cancer Study 22845 with the Medical Research Council study BRO4: an interim analysis."
-biblio8_magazine: "Int J Radiat Oncol Biol Phys. 2002 Feb 1;52(2):316-24."
-biblio8_link: ""
-biblio9_title: "Shaw E et al (2002). Prospective randomized trial of low- versus high-dose radiation therapy in adults with supratentorial low-grade glioma: initial report of a North Central Cancer Treatment Group/Radiation Therapy Oncology Group/Eastern Cooperative Oncology Group study."
-biblio9_magazine: "J Clin Oncol. 2002 May 1;20(9):2267-76."
-biblio9_link: ""
-biblio10_title: "Pouratian, N., & Schiff, D. (2010). Management of low-grade glioma. "
-biblio10_magazine: "Current Neurology and Neuroscience Reports, 10(3), 224–231."
-biblio10_link: "https://doi.org/10.1007/s11910-010-0105-7"
-biblio11_title: "Sepúlveda-Sánchez, J. M., Muñoz Langa, J., Arráez, M. Á., Fuster, J., Hernández Laín, A., Reynés, G., … Gallego, Ó. (2018). SEOM clinical guideline of diagnosis and management of low-grade glioma (2017)."
-biblio11_magazine: "Clinical & Translational Oncology: Official Publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico, 20(1), 3–15."
-biblio11_link: "https://doi.org/10.1007/s12094-017-1790-3"
+biblio1_title: "Blumenthal, D. T., Gorlia, T., Gilbert, M. R., Kim, M. M., Burt Nabors, L., Mason, W. P., … Stupp, R. (2017). Is more better? The impact of extended adjuvant temozolomide in newly diagnosed glioblastoma: a secondary analysis of EORTC and NRG Oncology/RTOG"
+biblio1_magazine: "Neuro-Oncology, 19(8), 1119–1126. "
+biblio1_link: "https://doi.org/10.1093/neuonc/nox025"
+
+biblio2_title: "Brandes, A. A., Finocchiaro, G., Zagonel, V., Reni, M., Caserta, C., Fabi, A., … Franceschi, E. (2016). AVAREG: a phase II, randomized, noncomparative study of fotemustine or bevacizumab for patients with recurrent glioblastoma."
+biblio2_magazine: " Neuro-Oncology, 18(9), 1304–1312"
+biblio2_link: " https://doi.org/10.1093/neuonc/now035"
+
+biblio3_title: "Chinot, O. L., Wick, W., Mason, W., Henriksson, R., Saran, F., Nishikawa, R., … Cloughesy, T. (2014). Bevacizumab plus radiotherapy-temozolomide for newly diagnosed glioblastoma. "
+biblio3_magazine: "The New England Journal of Medicine, 370(8), 709–722. "
+biblio3_link: "https://doi.org/10.1056/NEJMoa1308345"
+
+biblio4_title: "Desjardins, A., Gromeier, M., Herndon, J. E., Beaubier, N., Bolognesi, D. P., Friedman, A. H., … Bigner, D. D. (2018). Recurrent Glioblastoma Treated with Recombinant Poliovirus."
+biblio4_magazine: "New England Journal of Medicine, 379(2), 150–161. "
+biblio4_link: "https://doi.org/10.1056/NEJMoa1716435"
+
+biblio5_title: "Friedman, H. S., Prados, M. D., Wen, P. Y., Mikkelsen, T., Schiff, D., Abrey, L. E., … Cloughesy, T. (2009). Bevacizumab alone and in combination with irinotecan in recurrent glioblastoma."
+biblio5_magazine: "Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology, 27(28), 4733–4740. "
+biblio5_link: "https://doi.org/10.1200/JCO.2008.19.8721"
+
+biblio6_title: "Gilbert, M. R., Dignam, J. J., Armstrong, T. S., Wefel, J. S., Blumenthal, D. T., Vogelbaum, M. A., … Mehta, M. P. (2014). A randomized trial of bevacizumab for newly diagnosed glioblastoma"
+biblio6_magazine: "  The New England Journal of Medicine, 370(8), 699–708. "
+biblio6_link: "https://doi.org/10.1056/NEJMoa1308573"
+
+biblio7_title: "Hegi, M. E., Diserens, A.-C., Gorlia, T., Hamou, M.-F., de Tribolet, N., Weller, M., … Stupp, R. (2005). MGMT gene silencing and benefit from temozolomide in glioblastoma."
+biblio7_magazine: " The New England Journal of Medicine, 352(10), 997–1003. "
+biblio7_link: "https://doi.org/10.1056/NEJMoa043331"
+
+biblio8_title: "Herrlinger, U., Schäfer, N., Steinbach, J. P., Weyerbrock, A., Hau, P., Goldbrunner, R., … Glas, M. (2016). Bevacizumab Plus Irinotecan Versus Temozolomide in Newly Diagnosed O6-Methylguanine-DNA Methyltransferase Nonmethylated Glioblastoma: The Randomized GLARIUS Trial."
+biblio8_magazine: " Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology, 34(14), 1611–1619. "
+biblio8_link: "https://doi.org/10.1200/JCO.2015.63.4691"
+
+
+biblio9_title: "Laperriere, N., Weller, M., Stupp, R., Perry, J. R., Brandes, A. A., Wick, W., & van den Bent, M. J. (2013). Optimal management of elderly patients with glioblastoma"
+biblio9_magazine: "Cancer Treatment Reviews, 39(4), 350–357."
+biblio9_link: "https://doi.org/10.1016/j.ctrv.2012.05.008"
+
+biblio10_title: "Martínez-Garcia, M., Álvarez-Linera, J., Carrato, C., Ley, L., Luque, R., Maldonado, X., … Gil-Gil, M. (2018). SEOM clinical guidelines for diagnosis and treatment of glioblastoma (2017)."
+biblio10_magazine: "Clinical & Translational Oncology: Official Publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico, 20(1), 22–28."
+biblio10_link: "https://doi.org/10.1007/s12094-017-1763-6"
+
+biblio11_title: "McAleer, M. F., & Brown, P. D. (2015). Therapeutic management of gliosarcoma in the temozolomide era."
+biblio11_magazine: "CNS Oncology, 4(3), 171–178."
+biblio11_link: " https://doi.org/10.2217/cns.14.61"
+
+biblio12_title: "Perry, A., Miller, C. R., Gujrati, M., Scheithauer, B. W., Zambrano, S. C., Jost, S. C., … Rosenblum, M. K. (2009). Malignant gliomas with primitive neuroectodermal tumor-like components: a clinicopathologic and genetic study of 53 cases. "
+biblio12_magazine: "Brain Pathology (Zurich, Switzerland), 19(1), 81–90."
+biblio12_link: " https://doi.org/10.1111/j.1750-3639.2008.00167.x"
+
+biblio13_title: "Perry, J. R., Laperriere, N., O’Callaghan, C. J., Brandes, A. A., Menten, J., Phillips, C., … Trial Investigators. (2017). Short-Course Radiation plus Temozolomide in Elderly Patients with Glioblastoma. "
+biblio13_magazine: "The New England Journal of Medicine, 376(11), 1027–1037. "
+biblio13_link: "https://doi.org/10.1056/NEJMoa1611977"
+
+biblio14_title: "Reardon, D. A., Omuro, A., Brandes, A. A., Rieger, J., Wick, A., Sepulveda, J., … Sampson, J. (2017). OS10.3 Randomized Phase 3 Study Evaluating the Efficacy and Safety of Nivolumab vs Bevacizumab in Patients With Recurrent Glioblastoma: CheckMate 143. "
+biblio14_magazine: "Neuro-Oncology, 19(suppl_3), iii21–iii21. "
+biblio14_link: "https://doi.org/10.1093/neuonc/nox036.071"
+
+biblio15_title: "Stupp, R., Mason, W. P., van den Bent, M. J., Weller, M., Fisher, B., Taphoorn, M. J. B., … National Cancer Institute of Canada Clinical Trials Group. (2005). Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma."
+biblio15_magazine: "The New England Journal of Medicine, 352(10), 987–996."
+biblio15_link: "https://doi.org/10.1056/NEJMoa043330"
+
+biblio16_title: "Szopa, W., Burley, T. A., Kramer-Marek, G., & Kaspera, W. (2017). Diagnostic and Therapeutic Biomarkers in Glioblastoma: Current Status and Future Perspectives."
+biblio16_magazine: "BioMed Research International, 2017."
+biblio16_link: "https://doi.org/10.1155/2017/8013575"
+
+biblio17_title: "Vredenburgh, J. J., Desjardins, A., Herndon, J. E., Marcello, J., Reardon, D. A., Quinn, J. A., … Friedman, H. S. (2007). Bevacizumab plus irinotecan in recurrent glioblastoma multiforme."
+biblio17_magazine: "Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology, 25(30), 4722–4729."
+biblio17_link: "https://doi.org/10.1200/JCO.2007.12.2440"
+
+biblio18_title: "Wick, W., Gorlia, T., Bendszus, M., Taphoorn, M., Sahm, F., Harting, I., … van den Bent, M. J. (2017). Lomustine and Bevacizumab in Progressive Glioblastoma."
+biblio18_magazine: "The New England Journal of Medicine, 377(20), 1954–1963. "
+biblio18_link: "https://doi.org/10.1056/NEJMoa1707358"
+
+biblio19_title: "Yan, H., Parsons, D. W., Jin, G., McLendon, R., Rasheed, B. A., Yuan, W., … Bigner, D. D. (2009). IDH1 and IDH2 mutations in gliomas."
+biblio19_magazine: "The New England Journal of Medicine, 360(8), 765–773."
+biblio19_link: " https://doi.org/10.1056/NEJMoa0808710"
+
+biblio20_title: "Zhao, S., Wu, J., Wang, C., Liu, H., Dong, X., Shi, C., … Li, H. (2013). Intraoperative fluorescence-guided resection of high-grade malignant gliomas using 5-aminolevulinic acid-induced porphyrins: a systematic review and meta-analysis of prospective studies. "
+biblio20_magazine: "PloS One, 8(5), e63682."
+biblio20_link: " https://doi.org/10.1371/journal.pone.0063682"
+
+
+
+
 presentacion_side: Presentación
 objetivos_side: Objetivos
 epidemiologia_side: 1. Epidemiología y diagnóstico
 diagnostico_side: 2. Diagnóstico patológico y molecular
 tratamiento_side: 3. Tratamiento post quirúrgico adyuvante
-inicio_side: 4. Tratamiento de la enfermedad no resecable de inicio
-tendencias_side: "5. Tratamiento a la recaída: tendencias actuales"
+tendencias_side: "4. Tratamiento a la recaída: tendencias actuales"
+
+
 caso_practico: "Casos clínicos "
 texto_planteamiento: "Texto de planteamiento del caso"
-planteamiento1: "Varón de 45 años, sin antecedentes de interés."
-planteamiento2: Cuenta historia de dos años de evolución de cefalea y, en los últimos meses, su familia le encuentra más despistado, como con “periodos de desconexión”. "
-planteamiento3: "Su médico decide realizarle una TAC, en la que se ve una aparente lesión hipocaptante en área temporal derecha, que recomienda completar con una resonancia magnética. "
-planteamiento4: "En esta, se observa en el nivel referido por la TAC, una lesión hipointensa en T1, bien delimitada, con hiperintensidad de señal en T2, de 7 cm de diámetro"
-planteamiento5: "Tras presentar el caso en sesión multidisplinar, el paciente es intervenido y dado de alta sin incidencias"
-planteamiento6: "En la reunión del comité de tumores, se recibe el diagnóstico definitivo de oligodendroglioma con codelección 1p/19q y mutación en IDH1."
-reflexion: "Pregunta reflexión"
-pregunta_reflexion_1: "¿Cuál sería, de los siguientes, el tratamiento menos adecuado en términos de supervivencia?"
-caso_practico_opt_a: "Observación y tratamiento a la recaída"
-caso_practico_opt_b:  "Quimioterapia basada en temozolomida y reservar la radioterapia  a la recaída"
-caso_practico_opt_c:  "Radioterapia seguido de quimioterapia "
-answer3: El paciente presenta, al menos, dos factores de alto riesgo (tamaño y edad) por lo que, a pesar de ser un tumor con dos factores muy buen pronóstico (codelección 1p/19q y mutación en IDH), no se cumplen todos los factores para tener a la mera observación como una opción óptima.
-continuacion: Continuación del caso
-texto_continuacion: "El paciente, tras valorar todas las opciones, decide realizar tratamiento completo. "
-pregunta_continuacion: "¿Cuál de las siguientes opciones sería la óptima?"
-caso_practico2_opt_a: Radioterapia 60 Gy seguido de PCV x 6 ciclos
-caso_practico2_opt_b: Radioterapia 50.4 - 54 Gy seguido de temozolomida 150 mg/m2
-caso_practico2_opt_c: Radioterapia 50.4 – 54 Gy seguido de PCV x 6 ciclos
-answer4_a: "El mayor grado de evidencia para un tratamiento adyuvante en gliomas de bajo grado y alto riesgo es la RDT seguida de PCV, ya que esta ha demostrado aumento de supervivencia en un estudio aleatorizado frente a RDT sola. "
-answer4_b: " La dosis de la RDT se recomienda que sea 50.4 – 54Gy, ya que dosis más altas no han demostrado mayor eficacia y sí mayor toxicidad."
-answer4_c: "La opción B, si bien es valorable, no cuenta con el grado de evidencia que el PCV, aunque se puede discutir con el paciente según sus preferencias; en todo caso, el estudio que aporta una evidencia menor al PCV para este esquema, era con una primera fase de temozolomida concomitante. "
+planteamiento1: "Varón de 72 años. "
+planteamiento2: "Sin antecedentes de interés, salvo hipertensión arterial bien controlada con enalapril. "
+planteamiento3: "Hace vida autónoma, fue maestro de escuela y vive con dos de sus hijos, siendo viudo. "
+planteamiento4: "Desde hace un mes, los hijos observan que tiene un comportamiento más apático, irascible y se despista más de la cuenta."
+planteamiento5: "Por esta razón, creen que está desarrollando algún tipo de demencia, y solicitan a su médico de cabecera derivación al neurólogo. "
+planteamiento6: "Tres días antes de la cita, el paciente desarrolla un fuerte dolor de cabeza, y muestra agresividad antes sus hijos, los cuales, asustados llevan a su padre a urgencias."
+planteamiento7: "Se le realiza en la sala de emergencias una TAC con contraste, que muestra una imagen con captación y edema en lóbulo frontal derecho, que el radiólogo da como diagnósticos posibles glioma de alto grado versus metástasis de tumor primario"
+planteamiento8: "El paciente mejora con corticoides, y en planta de medicina interna no se detecta, tras estudio extenso, evidencia de tumor primario."
+planteamiento9: "En la resonancia magnética se muestra una masa de unos 3 centímetros, con intensa captación de gadolinio y edema, y con imágenes que sugieren necrosis central. "
+planteamiento10: "Dado que en planta el paciente presenta un muy buen estado general, y tras valorar pros y contras, se decide intervención quirúrgica. "
+planteamiento11: "Una vez recuperado de la misma, se presenta el caso en comité de tumores, con el diagnóstico de glioblastoma. "
+planteamiento12: "Los especialistas reunidos, valorar cuál es el mejor tratamiento para el paciente.  "
 
+reflexion: "Pregunta reflexión"
+pregunta_reflexion_1: "¿Cuál de las siguientes características tendría más peso a la hora de sopesar no añadir temozolomida al tratamiento con radioterapia?"
+caso_practico_opt_a: "La ausencia de mutación en IDH"
+caso_practico_opt_b:  "La edad"
+caso_practico_opt_c:  "La falta de metilación en el promotor de MGMT "
+answer3: La edad, como demuestra el ensayo del grupo canadiense liderado por Perry et al, no es motivo para la pérdida de beneficio diferencial entre quimiorradioterapia y radioterapia sola. La ausencia de mutación en IDH ha demostrado ser un factor de mal pronóstico, pero aún no conocemos realmente su valor predictivo. El estado de metilación de MGMT sí que presenta un valor predictivo, al tener menor beneficio los paceintes sin metilación. No obstante, este dato ha de tomarse con cautela, ya que aunque estadísticamente no significativo, el beneficio numéricamente es mayor para la combinación frente a la radioterapia en el grupo de no metilados.
+
+
+continuacion: Continuación del caso
+texto_continuacion_1: "Se recibe el resultado del análisis molecular, siendo positivo para mutación en IDH y para metilación del promotor de MGMT.  "
+texto_continuacion_2: "El paciente aparece en la consulta de oncología médica y de oncología radioterápica andando por su propio pie, acompañado de sus hijos los cuales están muy contentos porque, desde la operación, su padre ha vuelto a ser el hombre cariñoso que siempre fue. "
+
+pregunta_continuacion: "¿Cuál crees que es el tratamiento óptimo?"
+caso_practico2_opt_a: Radioterapia sola, debido a la eda y al peor pronóstico de los glioblastomas en ancianos, además de la toxicidad dela temozolomida.
+caso_practico2_opt_b: Radioterapia 60Gy en combinación con temozolomida seguida de 6 meses de temozolomida adyuvante
+caso_practico2_opt_c: Radioterapia 40Gy en combinación con temozolomida seguida de 12 meses de temozolomida adyuvante
+answer4: "De nuevo, la edad no es razón, máxime en un paciente con tan buen estado general, para contraindicar la quimioterapia. Por otra parte, la metilación del promotor de MGMT hace que el potencial beneficio sea mayor. Sin embargo, siendo estrictos, en el régimen de Stupp (respuesta B) no había datos apenas de pacientes mayores de 70 años, por lo cual se diseñó el ensayo del grupo canadiense, en el que se incluían pacientes mayores de 65 años. En este ensayo, se utilizó una dosis y fraccionamiento más baja y más corto, respectivamente, de radioterapia, y un tratamiento post radioterapia más prolongado que en el régimen de Stupp. "
 
 
 
