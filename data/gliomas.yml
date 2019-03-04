@@ -12,7 +12,7 @@ objetivos_text3: "Analizar las tendencias actuales para la investigación de ter
 
 
 epidemiologia: Epidemiología  y  diagnóstico
-epidemiologia_span: "El glioblastoma es tumor maligno primario cerebral más frecuente, "
+epidemiologia_span: "El glioblastoma es el tumor maligno primario cerebral más frecuente, "
 epidemiologia_text1: "siendo entre el 50 y el 60% de las neoplasias de este tipo en el adulto. Con una pequeña preponderancia en el sexo masculino, y una mediana de incidencia en la séptima década de la vida, es el tumor glial más agresivo y también el de mayor mortalidad, siendo muy rara (en torno al 5%) la supervivencia más allá de los 5 años (Martínez-Garcia et al., 2018)."
 epidemiologia_text2: "Debido a su agresividad, su clínica de debut suele ser originada por focalidad o por hipertensión intracraneal. Su imagen típica es en forma de una lesión ocupante de espacio hipointensa en secuencias potenciadas en T1 e hiperintensa en T2 y FLAIR, que característicamente capta contraste en anillo y tiene áreas heterogéneas de necrosis central,  y puede acompañarse de edema cerebral, aunque suele ser menos intenso que el que se observa en las lesiones metastásicas (figura 1)."
 image1_title: "Figura 1: Ejemplo de glioblastoma IDH y ATRX no mutados grado IV de la OMS en paciente varón de 39 años que acudió a urgencias por traumatismo craneoencefálico leve, cefaleas y mareos. "
@@ -21,13 +21,13 @@ image1_text: "La RM mostró una tumoración temporal del lado izquierdo, en una 
 
 diagnostico: Diagnóstico patológico y molecular
 diagnostico_text1: El glioblastoma es, por definición, un astrocitoma grado IV.
-diagnostico_span: Desde el punto de vista histológico, la diferencia con el astrocitoma anaplásico (grado III) está en la presencia de mayor proliferación, necrosis y proliferación microvascular
+diagnostico_span: " Desde el punto de vista histológico, la diferencia con el astrocitoma anaplásico (grado III) está en la presencia de mayor proliferación, necrosis y proliferación microvascular "
 diagnostico_text2: (figura 2)
 
 figura_2_a_title: "A) Glioblastoma, IDH1 wildtype (no mutado), grado IV de la OMS."
 figura_2_a_text: "Histologicamente se observa una proliferación neoplasica de densidad elevada, constituida por celulas de citoplasma amplio, eosinófilo, con nucleos ovalados o redondeados, irregulares, con cromatina granular densa y nucleolo evidente ocasional. En la imagen se observan fenomenos de necrosis tumoral con empalizada periférica. "
-figura_2_b_title: "B) Glioblastoma, IDH1 wildtype (no mutado), grado IV de la OMS"
-figura_2_b_text: ". En la imagen se observan frecuentes imágenes de proliferación microvascular, con vasos revestidos por un endotelio hipertrófico, con atipia citológica."
+figura_2_b_title: "B) Glioblastoma, IDH1 wildtype (no mutado), grado IV de la OMS."
+figura_2_b_text: "En la imagen se observan frecuentes imágenes de proliferación microvascular, con vasos revestidos por un endotelio hipertrófico, con atipia citológica."
 figura_2_c_title: "C) Glioblastoma, IDH1 wildtype (no mutado)."
 figura_2_c_text: "Tinción inmunohistoquímica IDH1: negativa."
 figura_2_d_title: "D) Glioblastoma, IDH1 wildtype (no mutado), grado IV de la OMS."
@@ -38,7 +38,7 @@ diagnostico_card1_title: "Mutación IDH (isocitrato deshidrogenasa): "
 diagnostico_card1_text1: "La primera determinación se realizará mediante la tinción inmunohistoquímica (IDH-R132H), ya que está es la variante más frecuente y es la forma más rápida. "
 diagnostico_card1_text2: "La tinción positiva nos indica presencia de mutación. "
 diagnostico_card1_text3: "Sin embargo, y sobre todo en pacientes jóvenes (menores de 55 años), este anticuerpo puede no detectar otras mutaciones, por lo que en estos pacientes se recomienda realizar secuenciación de IDH1 e IDH2. "
-diagnostico_card1_text4: "La presencia de mutaciones en IDH, que es mucho más frecuente en glioblastomas secundarios (aquellos que provienen de gliomas de bajo grado previos) y en pacientes más jóvenes, confiere un mejor pronóstico a los pacientes con gliblastoma, siendo la supervivencia global mediana del doble en referencia a los no mutados (31 meses vs 15 meses) ( (Yan et al., 2009), si bien no está claro aún su papel predictivo a las distintas terapias."
+diagnostico_card1_text4: "La presencia de mutaciones en IDH, que es mucho más frecuente en glioblastomas secundarios (aquellos que provienen de gliomas de bajo grado previos) y en pacientes más jóvenes, confiere un mejor pronóstico a los pacientes con glioblastoma, siendo la supervivencia global mediana del doble en referencia a los no mutados (31 meses vs 15 meses) ( (Yan et al., 2009), si bien no está claro aún su papel predictivo a las distintas terapias."
 diagnostico_card2_title: "Metilación del promotor de MGMT"
 diagnostico_card2_text1: "La O6-metil-guanin-DNA-metil-transferasa (MGMT) es una enzima que detecta las metilaciones en el DNA, concretamente en la guanina, evitando así que aparezcan mutaciones en el DNA producida por agentes alquilantes. "
 diagnostico_card2_text2: "Cuando su promotor está metilado de forma epigenética, el gen se encuentra silenciado, y por tanto esta enzima no puede corregir los defectos que ocurren con agentes tales como la temozolomida."
@@ -104,7 +104,7 @@ bevacizumab_text2: "Desde entonces, múltiples ensayos, la mayoría fase II no a
 bevacizumab_text3: "Por último, un reciente estudio, fase III, ha demostrado falta de eficacia en términos de supervivencia global de la adición de bevacizumab a lomustina (otra nitrosurea), con una diferencia significativa pero inferior a 3 meses en supervivencia libre de progresión (Wick et al., 2017)"
 nivolumab: "Nivolumab"
 nivolumab_text1: "Las expectativas surgidas de la inmunoterapia en otros tumores, la falta de terapias eficaces en glioblastoma recurrente, y el conocimiento actual de que el cerebro no es un órgano inmunoprivilegiado del todo, han conllevado al interés de analizar el efecto de las nuevas inmunoterapias basadas en inmunocheckpoints inhibitors en esta enfermedad."
-nivolumab_text2: "El estudio CA209-143, comparaba en pacientes con glioblastoma y recaída tras régimen de Stupp, bevacizumab frente a nivolumab (anti PD-1). Por desgracia, no se demostró superioridad en supervivencia global (9.8 mese vs 10 meses), y las tasas de respuesta fueron menores en el brazo de nivolumab (8% vs 23%), aunque curiosamente, respecto a este último parámetro, la duración de respuestas con nivolumab fue de 11.1 meses frente a 5.3 con bevacizumab (Reardon et al., 2017)"
+nivolumab_text2: "El estudio CA209-143, comparaba en pacientes con glioblastoma y recaída tras régimen de Stupp, bevacizumab frente a nivolumab (anti PD-1). Por desgracia, no se demostró superioridad en supervivencia global (9.8 meses vs 10 meses), y las tasas de respuesta fueron menores en el brazo de nivolumab (8% vs 23%), aunque curiosamente, respecto a este último parámetro, la duración de respuestas con nivolumab fue de 11.1 meses frente a 5.3 con bevacizumab (Reardon et al., 2017)"
 virus: "Virus oncolíticos"
 virus_text: "Una estrategia que está despertando interés, pero que aún deberá confrontar resultados en estudios randomizados, es el uso de virus oncolíticos intralesionales. El estudio más destacado, utiliza un virus quimérico, mezcla de polio y rinovirus, pero sin potencial patogénico, en pacientes con glioblastoma recurrente y que puedan ser candidatos a inyección, vía reintervención quirúrgica, de este tratamiento. Con 61 pacientes tratados, el dato que más llama la atención es una supervivencia global de 21% a los dos años, que se mantuvo igual a los 3 años, por lo que pudiera estar alcanzándose un plateau como sucede con otras inmunoterapias (Desjardins et al., 2018)"
 otras_estrategias: "Otras estrategias "
@@ -228,44 +228,5 @@ epidemiologia_side: 1. Epidemiología y diagnóstico
 diagnostico_side: 2. Diagnóstico patológico y molecular
 tratamiento_side: 3. Tratamiento post quirúrgico adyuvante
 tendencias_side: "4. Tratamiento a la recaída: tendencias actuales"
-
-
-caso_practico: "Casos clínicos "
-texto_planteamiento: "Texto de planteamiento del caso"
-planteamiento1: "Varón de 72 años. "
-planteamiento2: "Sin antecedentes de interés, salvo hipertensión arterial bien controlada con enalapril. "
-planteamiento3: "Hace vida autónoma, fue maestro de escuela y vive con dos de sus hijos, siendo viudo. "
-planteamiento4: "Desde hace un mes, los hijos observan que tiene un comportamiento más apático, irascible y se despista más de la cuenta."
-planteamiento5: "Por esta razón, creen que está desarrollando algún tipo de demencia, y solicitan a su médico de cabecera derivación al neurólogo. "
-planteamiento6: "Tres días antes de la cita, el paciente desarrolla un fuerte dolor de cabeza, y muestra agresividad antes sus hijos, los cuales, asustados llevan a su padre a urgencias."
-planteamiento7: "Se le realiza en la sala de emergencias una TAC con contraste, que muestra una imagen con captación y edema en lóbulo frontal derecho, que el radiólogo da como diagnósticos posibles glioma de alto grado versus metástasis de tumor primario"
-planteamiento8: "El paciente mejora con corticoides, y en planta de medicina interna no se detecta, tras estudio extenso, evidencia de tumor primario."
-planteamiento9: "En la resonancia magnética se muestra una masa de unos 3 centímetros, con intensa captación de gadolinio y edema, y con imágenes que sugieren necrosis central. "
-planteamiento10: "Dado que en planta el paciente presenta un muy buen estado general, y tras valorar pros y contras, se decide intervención quirúrgica. "
-planteamiento11: "Una vez recuperado de la misma, se presenta el caso en comité de tumores, con el diagnóstico de glioblastoma. "
-planteamiento12: "Los especialistas reunidos, valorar cuál es el mejor tratamiento para el paciente.  "
-
-reflexion: "Pregunta reflexión"
-pregunta_reflexion_1: "¿Cuál de las siguientes características tendría más peso a la hora de sopesar no añadir temozolomida al tratamiento con radioterapia?"
-caso_practico_opt_a: "La ausencia de mutación en IDH"
-caso_practico_opt_b:  "La edad"
-caso_practico_opt_c:  "La falta de metilación en el promotor de MGMT "
-answer3: La edad, como demuestra el ensayo del grupo canadiense liderado por Perry et al, no es motivo para la pérdida de beneficio diferencial entre quimiorradioterapia y radioterapia sola. La ausencia de mutación en IDH ha demostrado ser un factor de mal pronóstico, pero aún no conocemos realmente su valor predictivo. El estado de metilación de MGMT sí que presenta un valor predictivo, al tener menor beneficio los paceintes sin metilación. No obstante, este dato ha de tomarse con cautela, ya que aunque estadísticamente no significativo, el beneficio numéricamente es mayor para la combinación frente a la radioterapia en el grupo de no metilados.
-
-
-continuacion: Continuación del caso
-texto_continuacion_1: "Se recibe el resultado del análisis molecular, siendo positivo para mutación en IDH y para metilación del promotor de MGMT.  "
-texto_continuacion_2: "El paciente aparece en la consulta de oncología médica y de oncología radioterápica andando por su propio pie, acompañado de sus hijos los cuales están muy contentos porque, desde la operación, su padre ha vuelto a ser el hombre cariñoso que siempre fue. "
-
-pregunta_continuacion: "¿Cuál crees que es el tratamiento óptimo?"
-caso_practico2_opt_a: Radioterapia sola, debido a la edad y al peor pronóstico de los glioblastomas en ancianos, además de la toxicidad dela temozolomida.
-caso_practico2_opt_b: Radioterapia 60Gy en combinación con temozolomida seguida de 6 meses de temozolomida adyuvante
-caso_practico2_opt_c: Radioterapia 40Gy en combinación con temozolomida seguida de 12 meses de temozolomida adyuvante
-answer4: "De nuevo, la edad no es razón, máxime en un paciente con tan buen estado general, para contraindicar la quimioterapia. Por otra parte, la metilación del promotor de MGMT hace que el potencial beneficio sea mayor. Sin embargo, siendo estrictos, en el régimen de Stupp (respuesta B) no había datos apenas de pacientes mayores de 70 años, por lo cual se diseñó el ensayo del grupo canadiense, en el que se incluían pacientes mayores de 65 años. En este ensayo, se utilizó una dosis y fraccionamiento más baja y más corto, respectivamente, de radioterapia, y un tratamiento post radioterapia más prolongado que en el régimen de Stupp. "
-
-
-
-
-
 
 
